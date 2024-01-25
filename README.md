@@ -1,0 +1,1 @@
+A simple Explain for react-router dom vs react router hash link
